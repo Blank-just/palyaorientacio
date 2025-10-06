@@ -12,6 +12,7 @@ function App() {
   { value: 4, label: '4-jól' },
   { value: 5, label: '5-kiválóan' },
 ]
+
   const tomb=[
   { "sorszam": 1, "kijelentes": "Kéziszerszámok használata.", "tipus": "kezugyesseg" },
   { "sorszam": 2, "kijelentes": "A visszajáró pénz gyors kiszámolása.", "tipus": "matematikai" },
